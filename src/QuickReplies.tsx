@@ -31,6 +31,7 @@ const styles = StyleSheet.create({
   },
   quickReplyText: {
     overflow: 'visible',
+    fontFamily: 'Kanit_500Medium'
   },
   sendLink: {
     borderWidth: 0,
